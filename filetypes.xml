@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="Profile" type="PLAIN_TEXT" />
+      <mapping ext="rules" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="SQL" />
     </extensionMap>
   </component>
