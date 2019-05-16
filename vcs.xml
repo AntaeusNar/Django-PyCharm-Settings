@@ -10,6 +10,14 @@
           <option name="url" value="https://github.com/AntaeusNar/JSlearning.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AntaeusNar/AtlasCRM.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AntaeusNar/DjangoBaseDev.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Coding" />
