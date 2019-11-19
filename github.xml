@@ -3,5 +3,11 @@
     <account id="01565db5-cb42-42d1-86f5-b21807043707" name="AntaeusNar">
       <server host="github.com" />
     </account>
+    <account id="6f4d6db4-f317-48b0-82c6-4b65821ae162" name="AntaeusNar">
+      <server useHttp="false" host="github.com" />
+    </account>
+    <account id="1f0a6905-961e-476b-80bf-75245ec4b6d1" name="jedidiah.h.wallace@gmail.com">
+      <server useHttp="false" host="github.com" />
+    </account>
   </component>
 </application>
