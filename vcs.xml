@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/AntaeusNar/CW-DRF-Workflow.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AntaeusNar/CD-DRF-Workflow.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Coding" />
